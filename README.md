@@ -1,4 +1,4 @@
-# ElevateLabs-Task-1
+![image](https://github.com/user-attachments/assets/2e49b80b-d776-4e6a-88f2-e69a92b79e56)# ElevateLabs-Task-1
 # Data Cleaning & Preprocessing - Medical Appointment No Shows
 
 ## Dataset Overview
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Clean and prepare the dataset by:
 - Handling missing values
@@ -27,5 +27,6 @@ Clean and prepare the dataset by:
 - Jupyter Notebook
 
 ---
+## Image of Code
 ![image](https://github.com/user-attachments/assets/fce3084f-4fe2-41f8-9e1d-54883418bae1)
 
