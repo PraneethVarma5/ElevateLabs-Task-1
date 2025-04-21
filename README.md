@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e49b80b-d776-4e6a-88f2-e69a92b79e56)# ElevateLabs-Task-1
+# ElevateLabs-Task-1
 # Data Cleaning & Preprocessing - Medical Appointment No Shows
 
 ## Dataset Overview
